@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(0, 144, 96);
+}
+
+.hide {
+    display:none;
+}
+
