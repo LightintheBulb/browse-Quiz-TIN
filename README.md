@@ -9,7 +9,7 @@ https://lightinthebulb.github.io/browse-Quiz-TIN/
 
 ## Screenshot
 
-
+<img width="1119" alt="04-browse-quiz" src="https://user-images.githubusercontent.com/96213325/223860512-6ebfdf3a-0f84-4245-bb84-3facb19a275e.png">
 
 ## Task
 
